@@ -1,4 +1,4 @@
-import java.applet.Applet;
+import java.applet.Applet;zmieniam ci cos
 import java.awt.BorderLayout;
 import java.awt.Button;
 import java.awt.Color;
